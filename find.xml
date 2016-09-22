@@ -1,0 +1,18 @@
+<application>
+  <component name="FindSettings">
+    <option name="customScope" value="Module 'kkbox-cms-batch'" />
+    <option name="defaultScopeName" value="Module 'kkbox-cms-batch'" />
+    <option name="SEARCH_SCOPE" value="Module 'kkbox-cms-batch'" />
+    <recentFileMasks>
+      <mask>*.properties</mask>
+      <mask>*.html</mask>
+      <mask>*.jsp</mask>
+      <mask>*.xml</mask>
+      <mask>*.as</mask>
+      <mask>*.css</mask>
+      <mask>*.mxml</mask>
+      <mask>*.js</mask>
+      <mask>*.java</mask>
+    </recentFileMasks>
+  </component>
+</application>

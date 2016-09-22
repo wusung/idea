@@ -1,0 +1,10 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="create_contract_license" type="PLAIN_TEXT" />
+      <mapping pattern="Makefile" type="PLAIN_TEXT" />
+      <mapping pattern="Dockefile" type="PLAIN_TEXT" />
+      <mapping ext="utf8" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>
