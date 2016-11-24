@@ -1,8 +1,8 @@
 <application>
+  <component name="CodeFoldingSettings">
+    <option name="COLLAPSE_METHODS" value="true" />
+  </component>
   <component name="CodeInsightSettings">
     <EXCLUDED_PACKAGE NAME="java.nio.file.Path" />
-  </component>
-  <component name="JavaCodeFoldingSettings">
-    <option name="COLLAPSE_ONE_LINE_METHODS" value="false" />
   </component>
 </application>
