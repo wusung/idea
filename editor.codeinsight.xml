@@ -2,4 +2,7 @@
   <component name="CodeInsightSettings">
     <EXCLUDED_PACKAGE NAME="java.nio.file.Path" />
   </component>
+  <component name="JavaCodeFoldingSettings">
+    <option name="collapseOneLineMethods" value="false" />
+  </component>
 </application>
